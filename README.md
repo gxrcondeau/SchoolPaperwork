@@ -1,11 +1,12 @@
 ### CODEWARS
-Grade book
-Complete the function so that it finds the average of the three scores passed to it and returns the letter value associated with that grade. <br/>
- <br/>
-Numerical Score	Letter Grade
-90 <= score <= 100	'A' <br/>
-80 <= score < 90	'B' <br/>
-70 <= score < 80	'C' <br/>
-60 <= score < 70	'D' <br/>
-0 <= score < 60	'F' <br/>
-Tested values are all between 0 and 100. Theres is no need to check for negative values or values greater than 100.
+Your classmates asked you to copy some paperwork for them. You know that there are 'n' classmates and the paperwork has 'm' pages.<br/>
+<br/>
+Your task is to calculate how many blank pages do you need. If n < 0 or m < 0 return 0.<br/>
+<br/>
+```
+Example:<br/>
+n= 5, m=5: 25
+n=-5, m=5:  0
+```
+<br/>
+Waiting for translations and Feedback! Thanks!
